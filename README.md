@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/social-preview.png" alt="VogonDB Social Preview" />
+</p>
+
 # VogonDB
 
 ### *The Universe's Most Administratively Thorough Database*
